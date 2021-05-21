@@ -38,6 +38,7 @@ vertical: false
 
 - [十年之约](http://rss.foreverblog.cn)
 - [个站商店](https://storeweb.cn/navigator/rss)
+- [忘ね潮](https://wasurejio.org/sites/26.html)　<n>時間未知，表示感謝</n>
 
 </div>
 
