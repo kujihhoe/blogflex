@@ -305,6 +305,8 @@ img: 'https://pic.imgdb.cn/item/5f58f07c160a154a6741be4e.jpg'
 
 慢宮調泛音調弦法：
 
+畫錯了，是三弦五徽=六弦四徽
+
 <center><img src="https://pic.imgdb.cn/pic/5be2e7899dc6d6b928f1a2b8" width="380" alt="text"></center>
 
 #### 蕤賓調
@@ -320,6 +322,8 @@ img: 'https://pic.imgdb.cn/item/5f58f07c160a154a6741be4e.jpg'
 蕤賓調→清商調：二絃七徽按音與五絃十徽應，緊二絃。七弦比二絃低八度。
 
 清商調泛音調弦法：
+
+有錯，應該是七弦四徽=五弦三徽
 
 <center><img src="https://pic.imgdb.cn/pic/5be2e79c9dc6d6b928f1a2ba" width="380" alt="text"></center>
 

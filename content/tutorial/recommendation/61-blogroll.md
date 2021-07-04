@@ -61,9 +61,11 @@ vertical: false
 
 [烩饼](https://zhb.xyz/)　〔一些讀書筆記〕
 
-[寒塘渡月](http://sometime.me)　與你分享我的旅行、攝影與文字〔十分淸流〕
+[寒塘渡月](http://sometime.me)　與你分享我的旅行、攝影與文字
 
 [夏泉的后院](https://www.hxueh.net/)　在深圳长大，于深圳大学毕业，目前在深圳生活。
+
+[Gordon](https://gordonsky.cn/)　沈醉在音樂中的一九九五年青年。網站很好看，文字有意思。
 
 [Tonis Foto Haus](https://www.tonichan.xyz)　Amateur Photographer. Novice Data Scientist.Zhejiang University, Chu Ko Chen Honors College.
 
