@@ -171,6 +171,8 @@ img: 'https://pic.imgdb.cn/item/5f58f07c160a154a6741be4e.jpg'
 
 #### 徽法律側弄調表
 
+勘誤：無媒調的112應該是-112
+
 <img src="https://pic.imgdb.cn/pic/5be2e68b9dc6d6b928f1a2aa" alt="text">
 注：「+-」表示加或減一箇普通音差。
 
@@ -341,6 +343,8 @@ img: 'https://pic.imgdb.cn/item/5f58f07c160a154a6741be4e.jpg'
 
 无媒調泛音調弦法：
 
+有點奇怪？
+
 <center><img src="https://pic.imgdb.cn/pic/5be2e7ad9dc6d6b928f1a2bc" width="400" alt="text"></center>
 
 #### 間弦調
@@ -352,6 +356,10 @@ img: 'https://pic.imgdb.cn/item/5f58f07c160a154a6741be4e.jpg'
 <center><img src="https://pic.imgdb.cn/pic/5be2e7b69dc6d6b928f1a2bd" width="400" alt="text"></center>
 
 #### 準法律側弄調表
+
+爲何準法律的閒弦調和徽法律一模一樣？？
+
+黃鐘調很奇怪？
 
 <img src="https://pic.imgdb.cn/pic/5be2e7bf9dc6d6b928f1a2be"  alt="text">
 
