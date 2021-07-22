@@ -29,6 +29,8 @@ vertical: false
 
 [黃安年](http://blog.sciencenet.cn/home.php?mod=space&uid=415)　〔我院退休的黃老師〕
 
+[随轩](https://yilinhut.net/)　〔清華大學科學史系胡翌霖助理教授〕
+
 [書-會-兒的博客](http://blog.sina.com.cn/pengyong)　〔中央民族大學歷史文化學院院長彭勇敎授〕
 
 [詹衛東箇人主葉](http://ccl.pku.edu.cn/doubtfire/)　〔北大一位語言學敎授〕

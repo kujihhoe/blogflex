@@ -27,6 +27,10 @@ img: 'https://pic.imgdb.cn/item/5f424cfd160a154a676079ca.jpg'
 
 https://sspai.com/post/60768 一些標題字體
 
+07-19 @ GitHubDaily：推荐 GitHub 上一款开源中文字体：霞鹜文楷（LXGW WenKai）。基于日本著名字体厂商 FONTWORKS 开源的 Klee 完善而成，共包含 1.3 万个简繁日汉字，个人用户或企业可免费使用，自由分享。github.com/lxgw/LxgwWenKai 
+
+
+
 ## 排版
 
 [PlatyHsu](https://sspai.com/u/d2naxtcd/updates)《[别再用「六个点」当省略号了，这些标点都有更规范的输入方式](https://sspai.com/post/45516)》，2018-07-05 ● 必看

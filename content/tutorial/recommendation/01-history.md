@@ -93,6 +93,10 @@ img: 'https://pic.imgdb.cn/item/5f26c13414195aa594984817.jpg'
 
 [Gramara](https://gramara.com/en/) 一個免費英文潤色工具，類似 Grammarly
 
+www.ccamc.co/chinese_historical_map/index_tw.php 一个历史地图网站，可按年份、年号查询
+
+[古今文字集成](http://blog.ccamc.org)
+
 ## 小學
 
 [古音小境](http://www.guguolin.com/niyin.php)　唯一提供了新三家上古音的網站。現在已經非常全面了，可以替代國學大師的字典。
