@@ -1,7 +1,7 @@
 ---
 layout: "net"
 type: "net"
-title: "赫赫琴网｜今人自度曲"
+title: "赫赫琴网｜圓桌二：今人自度曲"
 date: 2021-01-02
 author: ["柯棋瀚整理"]
 netsort: ["赫赫琴网"]

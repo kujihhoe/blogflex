@@ -670,7 +670,7 @@ code {
 }
 
 .article-card-content {
-  border-radius: .6em;
+  border-radius: 1em;
   padding-bottom: 62.5%;
   background-size: cover;
   border: 1px solid var(--gray)
@@ -1329,7 +1329,7 @@ a.footnote-backref:hover {
   background-size: cover;
   background-repeat: no-repeat;
   border: none;
-  border-radius: .6em;
+  border-radius: 1em;
   margin-bottom: .4em;
   background-position: center;
   border: 1px solid var(--gray);
@@ -1340,14 +1340,14 @@ a.footnote-backref:hover {
 }
 
 .icon-wrap {
-  margin-bottom: 2em;
+  margin-bottom: 5em;
 }
 
 .icon {
   background-size: contain;
-  border-radius: .5em;
-  height: 3em;
-  width: 3em;
+  border-radius: 1em;
+  height: 6em;
+  width: 6em;
   float: left;
   margin-right: 1em;
 }
